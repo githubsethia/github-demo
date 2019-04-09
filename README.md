@@ -9,3 +9,6 @@ wick kinfolk whatever meh photo booth craft beer 9
 Added below files:
 index.html
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
